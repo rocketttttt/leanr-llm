@@ -1,2 +1,2 @@
 langchain
-Ollama
+langchain_ollama
